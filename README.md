@@ -30,4 +30,7 @@ Upon launching the software, you’ll be prompted to set two types of delays(in 
 1. Delay between accounts – how long the script waits before switching to the next account
 2. Delay between actions – pauses between claiming, STO and BNB transfering
 
-You’ll also be asked whether you want to shuffle the wallets before execution (each private key keeps its original address and proxy pairing)
+You’ll also be asked whether you want to shuffle the wallets before execution (each private key keeps its original address and proxy pairing).
+
+**The software executes claim, STO transfer, and BNB transfer sequentially.
+If a wallet does not have enough funds or is not eligible for the airdrop, the subsequent operations will not be performed.**
