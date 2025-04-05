@@ -3,3 +3,8 @@
 **Author's info**
 - 💬 Author: [https://t.me/zero_0x_zero](https://t.me/zero_0x_zero)
 - 🔔 CHANNEL: [https://t.me/shrimp_to_whale](https://t.me/shrimp_to_whale)
+
+**Features**
+- 🟢 Airdrop claim
+- 🟢 STO token transfer
+- 🟢 Native(BnB) token transfer
