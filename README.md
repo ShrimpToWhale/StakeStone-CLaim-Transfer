@@ -26,8 +26,8 @@
 
 **Workflow and Configuration**
 
-Upon launching the software, you’ll be prompted to set two types of delays:
+Upon launching the software, you’ll be prompted to set two types of delays(in seconds):
 1. Delay between accounts – how long the script waits before switching to the next account
 2. Delay between actions – pauses between claiming, STO and BNB transfering
 
-You’ll also be asked whether you want to shuffle the wallets before execution(the private key, deposit address, and proxy will remain correctly paired, although proxies will still be used in their original order.
+You’ll also be asked whether you want to shuffle the wallets before execution (each private key keeps its original address and proxy pairing)
