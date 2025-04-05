@@ -20,7 +20,7 @@
 - `recipients.txt` - addresses where STO and BNB will be deposited
 - `proxies.txt` - proxies in the login:password@host:port format
   
-❗ **The number of proxies, private keys, and deposit addresses must be the same**
+❗ **The number of proxies, private keys, and deposit addresses must be the same.**
 
 ❗**If a proxy is not working, the software will automatically use the local IP to send requests.**
 
