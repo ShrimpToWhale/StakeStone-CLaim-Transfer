@@ -25,6 +25,7 @@
 ❗**If a proxy is not working, the software will automatically use the local IP to send requests.**
 
 **Workflow and Configuration**
+
 Upon launching the software, you’ll be prompted to set two types of delays:
 1. Delay between accounts – how long the script waits before switching to the next account
 2. Delay between actions – pauses between claiming, STO and BNB transfering
